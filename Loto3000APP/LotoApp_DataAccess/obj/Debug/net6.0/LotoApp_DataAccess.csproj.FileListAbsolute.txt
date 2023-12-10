@@ -1,0 +1,17 @@
+C:\Users\50\Desktop\LotoApp\Loto3000APP\LotoApp_DataAccess\bin\Debug\net6.0\LotoApp_DataAccess.deps.json
+C:\Users\50\Desktop\LotoApp\Loto3000APP\LotoApp_DataAccess\bin\Debug\net6.0\LotoApp_DataAccess.runtimeconfig.json
+C:\Users\50\Desktop\LotoApp\Loto3000APP\LotoApp_DataAccess\bin\Debug\net6.0\LotoApp_DataAccess.dll
+C:\Users\50\Desktop\LotoApp\Loto3000APP\LotoApp_DataAccess\bin\Debug\net6.0\LotoApp_DataAccess.pdb
+C:\Users\50\Desktop\LotoApp\Loto3000APP\LotoApp_DataAccess\bin\Debug\net6.0\Loto3000App_Domain.dll
+C:\Users\50\Desktop\LotoApp\Loto3000APP\LotoApp_DataAccess\bin\Debug\net6.0\Loto3000App_Domain.pdb
+C:\Users\50\Desktop\LotoApp\Loto3000APP\LotoApp_DataAccess\obj\Debug\net6.0\LotoApp_DataAccess.csproj.AssemblyReference.cache
+C:\Users\50\Desktop\LotoApp\Loto3000APP\LotoApp_DataAccess\obj\Debug\net6.0\LotoApp_DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50\Desktop\LotoApp\Loto3000APP\LotoApp_DataAccess\obj\Debug\net6.0\LotoApp_DataAccess.AssemblyInfoInputs.cache
+C:\Users\50\Desktop\LotoApp\Loto3000APP\LotoApp_DataAccess\obj\Debug\net6.0\LotoApp_DataAccess.AssemblyInfo.cs
+C:\Users\50\Desktop\LotoApp\Loto3000APP\LotoApp_DataAccess\obj\Debug\net6.0\LotoApp_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\50\Desktop\LotoApp\Loto3000APP\LotoApp_DataAccess\obj\Debug\net6.0\LotoApp_DataAccess.csproj.CopyComplete
+C:\Users\50\Desktop\LotoApp\Loto3000APP\LotoApp_DataAccess\obj\Debug\net6.0\LotoApp_DataAccess.dll
+C:\Users\50\Desktop\LotoApp\Loto3000APP\LotoApp_DataAccess\obj\Debug\net6.0\refint\LotoApp_DataAccess.dll
+C:\Users\50\Desktop\LotoApp\Loto3000APP\LotoApp_DataAccess\obj\Debug\net6.0\LotoApp_DataAccess.pdb
+C:\Users\50\Desktop\LotoApp\Loto3000APP\LotoApp_DataAccess\obj\Debug\net6.0\LotoApp_DataAccess.genruntimeconfig.cache
+C:\Users\50\Desktop\LotoApp\Loto3000APP\LotoApp_DataAccess\obj\Debug\net6.0\ref\LotoApp_DataAccess.dll

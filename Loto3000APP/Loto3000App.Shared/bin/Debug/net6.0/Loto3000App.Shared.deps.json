@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Loto3000App.Shared/1.0.0": {
+        "runtime": {
+          "Loto3000App.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Loto3000App.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loto3000APP", "Loto3000APP\Loto3000APP.csproj", "{32516EAC-F738-4714-B7F1-A6624789FC32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loto3000App_Domain", "Loto3000App_Domain\Loto3000App_Domain.csproj", "{5B049BF2-8D33-4878-819E-F81F226A3778}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LotoApp_DataAccess", "LotoApp_DataAccess\LotoApp_DataAccess.csproj", "{A1F0D201-F995-4A1A-931D-9DC6142C3CCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loto3000App.Helpers", "Loto3000App.Helpers\Loto3000App.Helpers.csproj", "{D2780EAE-754E-40CA-BEF5-D1173A416D46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loto3000App.DTOs", "Loto3000App.DTOs\Loto3000App.DTOs.csproj", "{4CDDD000-9EF5-49CE-81E6-1840BBC9C3BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loto3000App.Services", "Loto3000App.Services\Loto3000App.Services.csproj", "{91D74E26-5D01-4DD0-BFF5-6E82CD7EC9E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loto3000App.Shared", "Loto3000App.Shared\Loto3000App.Shared.csproj", "{6486894E-6FDC-42F8-9241-0C7CA071DDF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32516EAC-F738-4714-B7F1-A6624789FC32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32516EAC-F738-4714-B7F1-A6624789FC32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32516EAC-F738-4714-B7F1-A6624789FC32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32516EAC-F738-4714-B7F1-A6624789FC32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B049BF2-8D33-4878-819E-F81F226A3778}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B049BF2-8D33-4878-819E-F81F226A3778}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B049BF2-8D33-4878-819E-F81F226A3778}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B049BF2-8D33-4878-819E-F81F226A3778}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1F0D201-F995-4A1A-931D-9DC6142C3CCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1F0D201-F995-4A1A-931D-9DC6142C3CCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1F0D201-F995-4A1A-931D-9DC6142C3CCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1F0D201-F995-4A1A-931D-9DC6142C3CCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2780EAE-754E-40CA-BEF5-D1173A416D46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2780EAE-754E-40CA-BEF5-D1173A416D46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2780EAE-754E-40CA-BEF5-D1173A416D46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2780EAE-754E-40CA-BEF5-D1173A416D46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CDDD000-9EF5-49CE-81E6-1840BBC9C3BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CDDD000-9EF5-49CE-81E6-1840BBC9C3BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CDDD000-9EF5-49CE-81E6-1840BBC9C3BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CDDD000-9EF5-49CE-81E6-1840BBC9C3BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91D74E26-5D01-4DD0-BFF5-6E82CD7EC9E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91D74E26-5D01-4DD0-BFF5-6E82CD7EC9E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91D74E26-5D01-4DD0-BFF5-6E82CD7EC9E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91D74E26-5D01-4DD0-BFF5-6E82CD7EC9E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6486894E-6FDC-42F8-9241-0C7CA071DDF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6486894E-6FDC-42F8-9241-0C7CA071DDF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6486894E-6FDC-42F8-9241-0C7CA071DDF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6486894E-6FDC-42F8-9241-0C7CA071DDF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6742DB9F-398E-4D50-BB42-43D9A02DB8E0}
+	EndGlobalSection
+EndGlobal

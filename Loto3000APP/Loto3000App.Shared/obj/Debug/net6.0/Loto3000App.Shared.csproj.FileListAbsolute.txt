@@ -1,0 +1,12 @@
+C:\Users\50\Desktop\LotoApp\Loto3000APP\Loto3000App.Shared\bin\Debug\net6.0\Loto3000App.Shared.deps.json
+C:\Users\50\Desktop\LotoApp\Loto3000APP\Loto3000App.Shared\bin\Debug\net6.0\Loto3000App.Shared.dll
+C:\Users\50\Desktop\LotoApp\Loto3000APP\Loto3000App.Shared\bin\Debug\net6.0\Loto3000App.Shared.pdb
+C:\Users\50\Desktop\LotoApp\Loto3000APP\Loto3000App.Shared\obj\Debug\net6.0\Loto3000App.Shared.csproj.AssemblyReference.cache
+C:\Users\50\Desktop\LotoApp\Loto3000APP\Loto3000App.Shared\obj\Debug\net6.0\Loto3000App.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50\Desktop\LotoApp\Loto3000APP\Loto3000App.Shared\obj\Debug\net6.0\Loto3000App.Shared.AssemblyInfoInputs.cache
+C:\Users\50\Desktop\LotoApp\Loto3000APP\Loto3000App.Shared\obj\Debug\net6.0\Loto3000App.Shared.AssemblyInfo.cs
+C:\Users\50\Desktop\LotoApp\Loto3000APP\Loto3000App.Shared\obj\Debug\net6.0\Loto3000App.Shared.csproj.CoreCompileInputs.cache
+C:\Users\50\Desktop\LotoApp\Loto3000APP\Loto3000App.Shared\obj\Debug\net6.0\Loto3000App.Shared.dll
+C:\Users\50\Desktop\LotoApp\Loto3000APP\Loto3000App.Shared\obj\Debug\net6.0\refint\Loto3000App.Shared.dll
+C:\Users\50\Desktop\LotoApp\Loto3000APP\Loto3000App.Shared\obj\Debug\net6.0\Loto3000App.Shared.pdb
+C:\Users\50\Desktop\LotoApp\Loto3000APP\Loto3000App.Shared\obj\Debug\net6.0\ref\Loto3000App.Shared.dll

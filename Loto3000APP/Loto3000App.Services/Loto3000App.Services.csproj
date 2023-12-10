@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="12.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Loto3000App.DTOs\Loto3000App.DTOs.csproj" />
+    <ProjectReference Include="..\Loto3000App_Domain\Loto3000App_Domain.csproj" />
+    <ProjectReference Include="..\LotoApp_DataAccess\LotoApp_DataAccess.csproj" />
+  </ItemGroup>
+
+</Project>
