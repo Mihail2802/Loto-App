@@ -2899,11 +2899,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\50\\Desktop\\LotoApp\\Loto3000APP\\Loto3000App_Domain\\Loto3000App_Domain.csproj",
+      "projectUniqueName": "C:\\Users\\50\\Desktop\\Loto-App\\Loto3000APP\\Loto3000App_Domain\\Loto3000App_Domain.csproj",
       "projectName": "Loto3000App_Domain",
-      "projectPath": "C:\\Users\\50\\Desktop\\LotoApp\\Loto3000APP\\Loto3000App_Domain\\Loto3000App_Domain.csproj",
+      "projectPath": "C:\\Users\\50\\Desktop\\Loto-App\\Loto3000APP\\Loto3000App_Domain\\Loto3000App_Domain.csproj",
       "packagesPath": "C:\\Users\\50\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\50\\Desktop\\LotoApp\\Loto3000APP\\Loto3000App_Domain\\obj\\",
+      "outputPath": "C:\\Users\\50\\Desktop\\Loto-App\\Loto3000APP\\Loto3000App_Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

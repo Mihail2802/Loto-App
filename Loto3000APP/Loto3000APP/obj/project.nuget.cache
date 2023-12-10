@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "TNlnsP1LkVjLmTTMe7EVLEM3yo1D3+N0XGcoS5MPDR4uXu535h08FdR2Q0AXL78mKlMo311y9XnOBMbNgnzTbQ==",
+  "dgSpecHash": "KDAQ6h5hT2N9HLQp3IcluW1AuPyYlHqZ3smCggG9K2gT30okYYqAL2iVJ4/qWrKtgMy/GkijofTNjI/sXJRubw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\50\\Desktop\\LotoApp\\Loto3000APP\\Loto3000APP\\Loto3000APP.csproj",
+  "projectFilePath": "C:\\Users\\50\\Desktop\\Loto-App\\Loto3000APP\\Loto3000APP\\Loto3000APP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\50\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\50\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\50\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\50\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
     "C:\\Users\\50\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

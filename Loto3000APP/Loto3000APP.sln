@@ -3,19 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33414.496
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loto3000APP", "Loto3000APP\Loto3000APP.csproj", "{32516EAC-F738-4714-B7F1-A6624789FC32}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loto3000APP", "Loto3000APP\Loto3000APP.csproj", "{32516EAC-F738-4714-B7F1-A6624789FC32}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loto3000App_Domain", "Loto3000App_Domain\Loto3000App_Domain.csproj", "{5B049BF2-8D33-4878-819E-F81F226A3778}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loto3000App_Domain", "Loto3000App_Domain\Loto3000App_Domain.csproj", "{5B049BF2-8D33-4878-819E-F81F226A3778}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LotoApp_DataAccess", "LotoApp_DataAccess\LotoApp_DataAccess.csproj", "{A1F0D201-F995-4A1A-931D-9DC6142C3CCA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LotoApp_DataAccess", "LotoApp_DataAccess\LotoApp_DataAccess.csproj", "{A1F0D201-F995-4A1A-931D-9DC6142C3CCA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loto3000App.Helpers", "Loto3000App.Helpers\Loto3000App.Helpers.csproj", "{D2780EAE-754E-40CA-BEF5-D1173A416D46}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loto3000App.Helpers", "Loto3000App.Helpers\Loto3000App.Helpers.csproj", "{D2780EAE-754E-40CA-BEF5-D1173A416D46}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loto3000App.DTOs", "Loto3000App.DTOs\Loto3000App.DTOs.csproj", "{4CDDD000-9EF5-49CE-81E6-1840BBC9C3BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loto3000App.DTOs", "Loto3000App.DTOs\Loto3000App.DTOs.csproj", "{4CDDD000-9EF5-49CE-81E6-1840BBC9C3BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loto3000App.Services", "Loto3000App.Services\Loto3000App.Services.csproj", "{91D74E26-5D01-4DD0-BFF5-6E82CD7EC9E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loto3000App.Services", "Loto3000App.Services\Loto3000App.Services.csproj", "{91D74E26-5D01-4DD0-BFF5-6E82CD7EC9E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loto3000App.Shared", "Loto3000App.Shared\Loto3000App.Shared.csproj", "{6486894E-6FDC-42F8-9241-0C7CA071DDF4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loto3000App.Shared", "Loto3000App.Shared\Loto3000App.Shared.csproj", "{6486894E-6FDC-42F8-9241-0C7CA071DDF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loto3000App.Mappers", "Loto3000App.Mappers\Loto3000App.Mappers.csproj", "{13987473-9A2E-48D9-8677-ECD4AB329464}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{6486894E-6FDC-42F8-9241-0C7CA071DDF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6486894E-6FDC-42F8-9241-0C7CA071DDF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6486894E-6FDC-42F8-9241-0C7CA071DDF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13987473-9A2E-48D9-8677-ECD4AB329464}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13987473-9A2E-48D9-8677-ECD4AB329464}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13987473-9A2E-48D9-8677-ECD4AB329464}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13987473-9A2E-48D9-8677-ECD4AB329464}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

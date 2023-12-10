@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6c/CTq0pHuxpEQIyba40nc3TaDGAtX2d08DIsm1/DxU3FqKKDE33zHjQB11vdXvD1p4WQVJWUVTslXDbPbOJ2A==",
+  "dgSpecHash": "KB6l+cgX4z15sfeCn67z4Gy0t3km/9ViHkdw9nNbqyXhBMKImV0f92Kzfpdok/ZzSJQcjQ+WOXjwoLm06h1/Lg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\50\\Desktop\\LotoApp\\Loto3000APP\\Loto3000App.Helpers\\Loto3000App.Helpers.csproj",
+  "projectFilePath": "C:\\Users\\50\\Desktop\\Loto-App\\Loto3000APP\\Loto3000App.Helpers\\Loto3000App.Helpers.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\50\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\50\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",

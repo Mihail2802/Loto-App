@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\50\\Desktop\\LotoApp\\Loto3000APP\\Loto3000App.Shared\\Loto3000App.Shared.csproj": {}
+    "C:\\Users\\50\\Desktop\\Loto-App\\Loto3000APP\\Loto3000App.Shared\\Loto3000App.Shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\50\\Desktop\\LotoApp\\Loto3000APP\\Loto3000App.Shared\\Loto3000App.Shared.csproj": {
+    "C:\\Users\\50\\Desktop\\Loto-App\\Loto3000APP\\Loto3000App.Shared\\Loto3000App.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\50\\Desktop\\LotoApp\\Loto3000APP\\Loto3000App.Shared\\Loto3000App.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\50\\Desktop\\Loto-App\\Loto3000APP\\Loto3000App.Shared\\Loto3000App.Shared.csproj",
         "projectName": "Loto3000App.Shared",
-        "projectPath": "C:\\Users\\50\\Desktop\\LotoApp\\Loto3000APP\\Loto3000App.Shared\\Loto3000App.Shared.csproj",
+        "projectPath": "C:\\Users\\50\\Desktop\\Loto-App\\Loto3000APP\\Loto3000App.Shared\\Loto3000App.Shared.csproj",
         "packagesPath": "C:\\Users\\50\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\50\\Desktop\\LotoApp\\Loto3000APP\\Loto3000App.Shared\\obj\\",
+        "outputPath": "C:\\Users\\50\\Desktop\\Loto-App\\Loto3000APP\\Loto3000App.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
